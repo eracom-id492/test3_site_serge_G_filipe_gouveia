@@ -1,0 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #c0c0c0;
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+body {
+font-family: "Ubuntu", serif;
+}
+
+
+
+
+h1{
+font-family: "Ubuntu", bold 700;
+}
+
+h2{
+font-family: "Ubuntu", bold 700;
+}
+
+a{
+font-family: "Ubuntu"
+}
